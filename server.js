@@ -48,6 +48,37 @@ const coffee = [
             "foam": "1 cm"
         },
         "served": "hot"
+    }, 
+    { 
+        "id": 4,
+        "name": "cappuccino", 
+        "region": "Italian",
+        "description" : "One of the best and popular varieties of coffee, Cappuccino has similar ingredients to latte, the main difference being that the milk used here is not so steamed, thus making it appear less foamy. Baristas and coffee bars where this drink tops their menu chart, often add garnishes of chocolate shavings or powder on top. Cappuccino Freddo is the cold variation popularized in Greece and Cyprus, topped with foam prepared by frothing cold milk. Other beverages that bear similarity to cappuccino are cortado, flat white, and caffe macchiato.",
+        "cup-size": {
+            "cup": "Cappuccino mug",
+            "amount": "6 to 8 oz"
+        },
+        "ingredient-ratio": {
+            "espresso shot":"1",
+            "steamed milk": "2 oz",
+            "foam": "2 oz"
+        },
+        "served": "hot"
+    },  
+    { 
+        "id": 5,
+        "name": "flat white", 
+        "region": "Australian",
+        "description" : "The flat white has espresso and microfoam (steamed milk with small bubbles and a glossy texture) as its primary ingredients. This beverage was said to have originated in Australia during the mid-1980s in Sydney’s Moors Espresso Bar. New Zealand also claims of inventing this coffee in Auckland around the same time. The upper layer of the flat white is brown, with a thick, velvety texture. Its popularity spread worldwide and has become famous in the United States and the United Kingdom, being an addition to Star buck’s menu.",
+        "cup-size": {
+            "cup": "Glass tumbler or flat ceramic cup with saucer",
+            "amount": "6 oz"
+        },
+        "ingredient-ratio": {
+            "espresso shot":"1",
+            "steamed milk": "4 oz",
+        },
+        "served": "hot and cold"
     },  
 ];
 
